@@ -20,8 +20,9 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5rem;
+  margin-right: 8%;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
@@ -42,7 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+  /* background-color: #77755c47; */
+  border-radius: 20px;
+  margin-left: 75%;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
